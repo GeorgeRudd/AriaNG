@@ -88,7 +88,7 @@ chmod -R 755 /usr/local/caddy/www/aria2
 ## 使用Https/WebSocket(安全)协议连接Aria2
 * 编辑Aria2配置文件aria2.conf
 ```
-vi /root/.aria2/aria2.conf 
+vi /root/.aria2c/aria2.conf
 ```
 * 修改如下
 ```
